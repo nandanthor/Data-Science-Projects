@@ -5,3 +5,5 @@ A collection of some data science and machine learning projects I've done over t
 All datasets come from Kaggle.com
 
 Some bare-bones code comes from Sentdex and PythonProgramming.net
+
+Right now, everything is using sklearn - some deep learning in TensorFlow and Theano coming up soon.
